@@ -1,0 +1,28 @@
+
+body {
+	font-family: Helvetica, sans-serif;
+	background: #97bbc7;
+	color: #193370;
+	text-align: center;
+	padding: 40px;
+}
+
+button {
+	padding: 10px 20px;
+	background-color: #f2aa5c;
+	border: none;
+	border-radius: 8px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+#fit {
+	margin-top: 40px;
+}
+
+#fit img {
+	width: 300px;
+	max-width: 90%;
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
